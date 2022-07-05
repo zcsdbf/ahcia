@@ -1,0 +1,22 @@
+{
+    "name": "T",
+    "description": "T",
+    "keywords": ["T"],
+    "env": {
+        "AUUID": {
+            "description": "UUID",
+            "value": ""
+        },
+        "CADDYIndexPage": {
+            "description": "自定义CADDY部署完成后点击View的显示页面",
+            "value": "https://github.com/bradtraversy/loruki-website/archive/master.zip"
+        },
+        "ParameterSSENCYPT": {
+            "description": "SS加密方式",
+            "value": "chacha20-ietf-poly1305"
+        }
+    },
+    "website": "https://github.com/zcsdbf/ahcia",
+    "repository": "https://github.com/zcsdbf/ahcia",
+    "stack": "container"
+}
